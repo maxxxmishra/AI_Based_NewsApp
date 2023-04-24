@@ -71,6 +71,7 @@ export default makeStyles((theme) => ({
     margin: "4% 0",
     [theme.breakpoints.down("sm")]: {
       height: "35vmin",
+      marginTop: "10vh",
     },
   },
 }));
